@@ -1,0 +1,19 @@
+.product {
+    text-align: center;
+}
+
+.Watch {
+    text-align: center;
+    display: inline-block;
+    width: 350px;
+}
+
+
+.watch-image {
+    background-color: rgba(246, 246, 246, 1);
+    width: 250px;
+}
+
+.watch-pay {
+    text-align: center;
+}
